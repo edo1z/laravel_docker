@@ -1,2 +1,4 @@
+.idea
 docker/db
 server/*
+sample_project
